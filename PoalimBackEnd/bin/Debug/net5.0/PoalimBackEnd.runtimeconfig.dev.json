@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yanki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yanki\\.nuget\\packages"
+    ]
+  }
+}
